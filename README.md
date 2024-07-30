@@ -8,4 +8,4 @@
 ### Using the branch command line 'git branch -d your branch name' to delete the branch whos name you just entered above  
 ### Using the branch command line 'git checkout your branch name' to checkout from the branch you are currently in and get into the one which name you entered
 ### Using the branch command line 'git checkout -b your branch name' to check out from the current branch and at the same time create a new one with the neme you have entered after -b
-### Using the branch command line 'git branch -d your branch name' maybe used to check out from the current breanch and also delete the branch which name you have entered after -d
+### Using the branch command line 'git branch -d your branch name' maybe used to check out from the current breanch and also delete the branch which name you have entered after -d.
